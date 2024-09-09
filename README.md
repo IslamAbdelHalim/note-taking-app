@@ -65,13 +65,18 @@ We welcome contributions to MyApp! To contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch:
+```basg
   git checkout -b feature-branch
+```
 
 Make your changes and commit them:
+```bash
   git commit -m "Description of changes"
-
+```
 Push to the branch:
+```bash
   git push origin feature-branch
+```
 
 Create a pull request.
 
