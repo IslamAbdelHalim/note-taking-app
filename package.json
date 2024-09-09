@@ -1,0 +1,21 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "This is a node app for taking node by cli",
+  "type": "module",
+  "main": "server.js",
+  "bin": {
+    "note": "./server.js"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "Islam Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

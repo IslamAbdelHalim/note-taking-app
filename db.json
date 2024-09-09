@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "f3ebe49a-585e-4e0f-a11c-dd6a32fbf862",
+      "Date": 1725894555475,
+      "content": "This is a new note",
+      "tags": [
+        "note1,",
+        "note2"
+      ]
+    },
+    {
+      "id": "b7942901-3d13-49f8-b27f-4b4564337c2d",
+      "Date": 1725894704914,
+      "content": "This is a new note",
+      "tags": [
+        "note1,",
+        "note2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export default new URL('../db.json', import.meta.url).pathname;
